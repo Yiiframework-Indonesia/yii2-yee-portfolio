@@ -52,10 +52,10 @@ You can use dashboard widget to display short information about recent activity 
 
 Add this code in your control panel dashboard to display widget:
 ```php
-echo \yeesoft\post\widgets\dashboard\Posts::widget();
+echo \yiid\portfolio\widgets\dashboard\Portfolio::widget();
 ```
 
 Screenshots
 -------  
 
-[Flickr - Yee CMS Post Module](https://www.flickr.com/photos/134050409@N07/sets/72157656324703598)
+[Flickr - Yee CMS Portfolio Module](https://www.flickr.com/photos/134050409@N07/sets/72157656324703598)
